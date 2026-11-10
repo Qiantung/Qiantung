@@ -1,8 +1,8 @@
-# Insurance × AI
+# Economics, Finance & AI
 
-保险与人工智能交叉背景的学生，关注保险科技中的数据建模、风险分析与可解释原型。
+关注经济、金融与人工智能的交叉研究，探索数据分析、因果推断、风险建模与可解释的计算方法。
 
-I explore how data and AI can support insurance analytics, risk understanding, and reproducible prototypes.
+I am interested in economics, finance, and AI, with a focus on data analysis, causal inference, risk modeling, and reproducible research.
 
 ## Selected projects
 
@@ -14,6 +14,6 @@ I explore how data and AI can support insurance analytics, risk understanding, a
 
 ## Research interests
 
-InsurTech · insurance analytics · risk modeling · interpretable machine learning
+Economics · finance · causal inference · risk modeling · interpretable machine learning
 
 项目说明区分个人贡献与团队协作、真实数据与模拟数据、已有结果与尚待验证的假设。开发中使用AI辅助，保留方法、数据来源和局限说明。
