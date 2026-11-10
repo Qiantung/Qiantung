@@ -4,14 +4,16 @@
 
 I explore how data and AI can support insurance analytics, risk understanding, and reproducible prototypes.
 
-## 当前关注
+## Selected projects
 
-- **风险分析与原型**：多源数据质量、地震风险情景与可追踪的激励核算。
-- **保险数据建模**：WOE/IV、成交预测、跨期验证与模型稳定性。
-- **算法实验**：启发式、进化优化、监督学习与强化学习的比较。
+| 项目 | 关注问题 | 当前验证 |
+| --- | --- | --- |
+| [广厦有备](https://github.com/yoyo-bit1255/guangsha-youbei) | 多源数据质量、地震风险情景与可追踪的激励核算 | 35项Python测试、9项前端启动/API测试通过；合成原型 |
+| [Insurance Conversion Modeling](https://github.com/yoyo-bit1255/insurance-conversion-modeling) | WOE/IV、成交预测、跨期验证与稳定性 | 合成数据示例可运行；真实客户数据不公开 |
+| [2048 AI Benchmarks](https://github.com/yoyo-bit1255/2048-ai-benchmarks) | 启发式、遗传优化、行为克隆与DQN比较 | 基础入口已验证；完整比较保留为历史记录 |
 
-## 项目整理进度
+## Research interests
 
-正在整理广厦有备、保险成交预测和2048 AI的可复现版本。后续逐项补充仓库入口、运行说明与验证记录。
+InsurTech · insurance analytics · risk modeling · interpretable machine learning
 
-项目展示会区分个人贡献与团队协作、真实数据与模拟数据、已有结果与尚待验证的假设。开发中使用AI辅助，保留方法、数据来源和局限说明。
+项目说明区分个人贡献与团队协作、真实数据与模拟数据、已有结果与尚待验证的假设。开发中使用AI辅助，保留方法、数据来源和局限说明。
