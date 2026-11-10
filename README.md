@@ -1,16 +1,17 @@
-## Hi there 👋
+# Insurance × AI
 
-<!--
-**yoyo-bit1255/yoyo-bit1255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+保险与人工智能交叉背景的学生，关注保险科技中的数据建模、风险分析与可解释原型。
 
-Here are some ideas to get you started:
+I explore how data and AI can support insurance analytics, risk understanding, and reproducible prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 当前关注
+
+- **风险分析与原型**：多源数据质量、地震风险情景与可追踪的激励核算。
+- **保险数据建模**：WOE/IV、成交预测、跨期验证与模型稳定性。
+- **算法实验**：启发式、进化优化、监督学习与强化学习的比较。
+
+## 项目整理进度
+
+正在整理广厦有备、保险成交预测和2048 AI的可复现版本。后续逐项补充仓库入口、运行说明与验证记录。
+
+项目展示会区分个人贡献与团队协作、真实数据与模拟数据、已有结果与尚待验证的假设。开发中使用AI辅助，保留方法、数据来源和局限说明。
