@@ -1,21 +1,21 @@
-# Economics, Finance & AI
+# Hi, I'm yoyo
 
-关注经济、金融与人工智能的交叉研究，探索数据分析、因果推断、风险建模与可解释的计算方法。
+我是一名关注经济、金融与人工智能的学生。在这里记录我的课程实验、团队项目和正在推进的研究。
 
-I am interested in economics, finance, and AI, with a focus on data analysis, causal inference, risk modeling, and reproducible research.
+我想用数据和计算方法回答具体问题：模型换一个时间段还能不能用？复杂模型是否真的优于简单规则？一个制度变化与市场表现之间，怎样才能建立可信的联系？
 
-## Selected projects
+## 我的项目
 
-| 项目 | 关注问题 | 当前验证 |
-| --- | --- | --- |
-| [广厦有备](https://github.com/Qiantung/guangsha-youbei) | 多源数据质量、地震风险情景与可追踪的激励核算 | 35项Python测试、9项前端启动/API测试通过；合成原型 |
-| [Insurance Conversion Modeling](https://github.com/Qiantung/insurance-conversion-modeling) | WOE/IV、成交预测、跨期验证与稳定性 | 合成数据示例可运行；真实客户数据不公开 |
-| [2048 AI Benchmarks](https://github.com/Qiantung/2048-ai-benchmarks) | 启发式、遗传优化、行为克隆与DQN比较 | 基础入口已验证；完整比较保留为历史记录 |
-| [Insurance Association & Local Insurance Markets](https://github.com/Qiantung/insurance-association-did) | 行业协会、城市面板与DID；研究进行中 | 440行合成面板、100次置换与3项检查通过；真实研究结论待核查 |
-| [Computational Coursework](https://github.com/Qiantung/computational-coursework) | 手写机器学习、经济数据分析、视觉、数据库与单周期CPU | 4个实验入口及4项检查通过；视觉训练、SQL、CPU仿真范围单独说明 |
+| 项目 | 我在做什么 |
+| --- | --- |
+| [广厦有备](https://github.com/Qiantung/guangsha-youbei) | 我提出的团队项目：把数据质量、地震风险情景和激励核算连接成一个可以交互的本地原型。 |
+| [2048 多策略实验](https://github.com/Qiantung/2048-ai-benchmarks) | 在同一个游戏环境中比较启发式、遗传优化、行为克隆与 DQN；已有实验中，启发式的表现更好。 |
+| [保险客户成交预测](https://github.com/Qiantung/insurance-conversion-modeling) | 练习分箱、WOE/IV 和分类建模，关注模型在不同时间段的表现与稳定性。 |
+| [课程代码](https://github.com/Qiantung/computational-coursework) | 记录手写机器学习、经济数据分析、计算机视觉、数据库和单周期 CPU 等课程工作。 |
+| [行业协会与保险市场](https://github.com/Qiantung/insurance-association-did) | 进行中的研究：探索行业协会与地方保险市场的关系，目前在核对样本与识别设计，仓库提供合成数据上的方法示例。 |
 
-## Research interests
+## 我关注的方向
 
-Economics · finance · causal inference · risk modeling · interpretable machine learning
+经济与金融问题、因果推断、风险建模，以及机器学习在这些问题中的应用。
 
-项目说明区分个人贡献与团队协作、真实数据与模拟数据、已有结果与尚待验证的假设。开发中使用AI辅助，保留方法、数据来源和局限说明。
+我使用 AI 辅助编码、重构和文档整理。在项目中，我会说明自己的工作、团队协作，以及实验结果能支持到什么程度。
